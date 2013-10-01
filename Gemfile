@@ -15,6 +15,9 @@ gem 'bootstrap-sass', '~>2.2.2.0'
 #Simple_form for pretty forms.
 gem 'simple_form'
 
+#For images?
+gem "paperclip", "~> 3.0"
+
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
